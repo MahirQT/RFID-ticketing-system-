@@ -58,10 +58,10 @@ This solution ensures:
 
 *Insert images of your circuit and working project here if available*
 
-## 🎨 Logo
+<!--## 🎨 Logo
 
 ![Ticksy Logo](ticksy logo.png)  
-*A modern touch to a smarter journey*
+*A modern touch to a smarter journey* -->
 
 ## 📁 Repository Structure
 
