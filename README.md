@@ -60,7 +60,7 @@ This solution ensures:
 
 ## 🎨 Logo
 
-![Ticksy Logo](./ticksy_logo.png)  
+![Ticksy Logo](ticksy logo.png)  
 *A modern touch to a smarter journey*
 
 ## 📁 Repository Structure
