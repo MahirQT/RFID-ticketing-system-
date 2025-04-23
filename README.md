@@ -54,14 +54,14 @@ This solution ensures:
 5. If balance is insufficient or card is unknown, access is denied.
 6. Gate (servo) opens only for valid users.
 
-## 📷 Project Demo & Circuit
+<!--## 📷 Project Demo & Circuit
 
-*Insert images of your circuit and working project here if available*
+*Insert images of your circuit and working project here if available* -->
 
 <!--## 🎨 Logo
 
 ![Ticksy Logo](ticksy logo.png)  
 *A modern touch to a smarter journey* -->
 
-## 📁 Repository Structure
+<!--## 📁 Repository Structure -->
 
